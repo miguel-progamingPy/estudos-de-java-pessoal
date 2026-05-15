@@ -6,6 +6,9 @@ Este é um projeto desenvolvido para fins de aprendizado e prática da linguagem
 *   **Linguagem:** Java
 *   **IDE:** Netbeans apache
 *   **Versionamento:** Git & GitHub
+*   
+*  ## 🚀 Sobre o Projeto
+ Desenvolvi estes programas para consolidar meus conhecimentos acadêmicos em Sistemas de Análise e Desenvolvimento.
 
 ## 🧠 Conceitos Aplicados
 Durante o desenvolvimento, pude praticar:
